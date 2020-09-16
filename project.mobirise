@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Poliforum de León",
-    "currentPage": "page14.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2880,12 +2880,12 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "All",
+            "text_all": "TODO",
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Increíble",
+                "tags": "PABELLÓN A",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2898,7 +2898,7 @@
                 "active": false
               },
               {
-                "tags": "Responsivo",
+                "tags": "PABELLÓN A",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2911,7 +2911,7 @@
                 "active": false
               },
               {
-                "tags": "Creativa",
+                "tags": "PABELLÓN B",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2924,7 +2924,7 @@
                 "active": false
               },
               {
-                "tags": "Animada",
+                "tags": "PABELLÓN B",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2937,7 +2937,7 @@
                 "active": false
               },
               {
-                "tags": "Increíble",
+                "tags": "PABELLÓN C",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2950,7 +2950,7 @@
                 "active": false
               },
               {
-                "tags": "Increíble",
+                "tags": "PABELLÓN C",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2963,7 +2963,7 @@
                 "active": false
               },
               {
-                "tags": "Responsivo",
+                "tags": "PABELLÓN D",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2973,10 +2973,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animada",
+                "tags": "PABELLÓN B",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2986,7 +2986,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               }
             ]
           }
